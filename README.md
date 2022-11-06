@@ -7,4 +7,4 @@ Roles' code is open-sourced to allow the anyone to contribute to its development
 ## Selfhosting
 You can self-host an instance of Roles, but we will not provide support on how to do so.
 
-#### > [Invite Roles!](#)
+#### [Invite Roles!](#)
